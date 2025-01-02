@@ -48,9 +48,10 @@
 
 
 ## Output:
-![WhatsApp Image 2024-12-03 at 14 57 53_3fe334fc](https://github.com/user-attachments/assets/91ce6214-a934-4007-beb2-c8d1938a71ad)
-![WhatsApp Image 2024-12-03 at 14 57 53_95ff27c3](https://github.com/user-attachments/assets/46b58255-d084-4624-a519-53ae8d8e51e9)
-![WhatsApp Image 2024-12-03 at 14 57 54_e23fdc9d](https://github.com/user-attachments/assets/08626976-6195-4457-984d-8e5d295f5045)
+![image](https://github.com/user-attachments/assets/c88d0171-a410-4335-b5db-fdeb8090e767)
+![image](https://github.com/user-attachments/assets/f5375dab-3f2c-490f-8833-58fae74103aa)
+
+
 
 
 ### Name:Sitharth.B.S
